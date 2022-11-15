@@ -1,0 +1,9 @@
+.vscode/
+venv/
+k6.js
+__pycache__
+vrf_project.egg-info
+data_source/build
+.idea/
+target
+Cargo.lock
